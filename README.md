@@ -6,7 +6,7 @@
 <strong>Задача:</strong>
 Разработать веб-приложение, которое позволяет пользователям загружать фотографии собак и получать информацию о породе собаки вместе с уровнем уверенности в предсказании. Основная цель — помочь пользователям идентифицировать породы собак по изображениям.
 
-<strong>Ссылка на код</strong>
+<strong><a href="https://github.com/NeuroNecromant/dog-s-classfication/blob/main/dogs_classification.ipynb" target="_blank">Ссылка на код</a></strong>
 
 ---
 <strong>Что сделано:</strong>
